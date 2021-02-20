@@ -8,7 +8,7 @@ on:
   push:
   schedule:
     # 07:05 everyday in UTC+8, 23:05 everyday in UTC+0
-  - cron: '03 16 * * *'
+  - cron: '12 16 * * *'
 
 jobs:
   build:
