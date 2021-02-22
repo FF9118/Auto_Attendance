@@ -28,7 +28,7 @@
 2. 设置Secrets
 
     从Github中进入刚刚fork到你的个人账号下的本项目，打开项目的Settings->Secrets页面
-    
+     
 
 ![20201206004701](https://i.loli.net/2020/12/06/cegmk76uprEvHU5.png)
 
